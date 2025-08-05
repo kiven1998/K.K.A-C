@@ -80,11 +80,12 @@
       <img src="./images/NHARIRA.jpg" alt="Worship Service">
       <img src="./images/SERVICE.jpg" alt="Youth Group">
         <img src="./images/nabil.jpg" alt="Youth Group">
+        <img src="./images/youth.jpg" alt="Youth Group">
     </div>
   </section>  <section id="videos">
     <h2>Videos</h2>
     <div class="video-container">
-      <iframe width="560" height="315" src="https://www.youtube.com/embed/your_video_id1" frameborder="0" allowfullscreen></iframe>
+      <iframe width="560" height="315" src="https://www.youtube.com/embed/https://https://www.youtube.com/watch?v=118iON-cx-U" frameborder="0" allowfullscreen></iframe>
       <iframe width="560" height="315" src="https://www.youtube.com/embed/your_video_id2" frameborder="0" allowfullscreen></iframe>
     </div>
   </section>  <section id="contact">
@@ -99,7 +100,7 @@
       <li><a href="https://www.facebook.com/Kutenda Kwevatendi Apostolic Church" target="_blank">Facebook</a></li>
       <li><a href="https://www.instagram.com/kutendakwevatendi" target="_blank">Instagram</a></li>
       <li><a href="https://twitter.com/kutendakwevatendi" target="_blank">Twitter</a></li>
-      <li><a href="https://www.youtube.com/@kutendakwevatendi" target="_blank">YouTube</a></li>
+      <li><a href="https://www.youtube.com/@KUTENDA KWEVATENDI APOSTOLIC" target="_blank">YouTube</a></li>
     </ul>
   </section>  <footer>
     <p>&copy; 2025 Kutenda Kwevatendi Apostolic Church. All rights reserved.</p>
