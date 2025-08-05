@@ -1,4 +1,4 @@
-<!DOCTYPE html><html lang="en">
+all<!DOCTYPE html><html lang="en">
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -6,7 +6,7 @@
   <link rel="icon" href="favicon.ico">
   <meta name="description" content="Official Website for Kutenda Kwevatendi Apostolic Church. Learn about our faith, events, and community.">
   <meta name="keywords" content="Kutenda Kwevatendi, Apostolic Church, Zimbabwe Church, Faith, Worship">
-  <meta name="author" content="kiven samwanda">
+  <meta name="author" content="Kiven Samwanda">
   <style>
     body {
       font-family: Arial, sans-serif;
