@@ -90,7 +90,7 @@
   </section>  <section id="contact">
     <h2>Contact Us</h2>
     <p>Email: <a href="mailto:info@kutendakwevatendiapostolicchurch@gmail.com">info@kutendakwevatendi.org</a></p>
-    <p>Phone: +263 783 543 541/0716650949</p>
+    <p>Phone: +263 783 543 541</p>
     <p>Address: Chikanga, Mutare, Zimbabwe</p>
     <p>WhatsApp: <a href="https://wa.me/263783543541" target="_blank">Chat with us on WhatsApp</a></p>
   </section>  <section id="social">
@@ -106,4 +106,6 @@
   </footer>
 </body>
 </html>
+
+
 
