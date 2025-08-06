@@ -104,7 +104,6 @@
     <p>&copy; 2025 Kutenda Kwevatendi Apostolic Church. All rights reserved.</p>
   </footer>
 </body>
-</html>
 
 
 
