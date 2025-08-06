@@ -86,7 +86,8 @@
     <h2>UPCOMING EVENTS</h2>
   <P>17 17 to 23 AUGUST 2025  </P>
     <p>Musangano vaAbhib</p>
-    <p>Location :Mapembe,Bocha<Marange District<Manicaland zimbabwe</p>
+    <p>Location : Mapembe,Bocha Marange District, Manicaland,Zimbabwe </p>
+    <P>For more info contact :Church Organiser : 0772651138</P>
   </section>  <section id="contact">
     <h2>Contact Us</h2>
      <p>Email: <a href="mailto:info@kutendakwevatendiapostolicchurch@gmail.com">kutendakwevatendiapostolicchurch@gmail.com</a></p>
