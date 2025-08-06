@@ -84,7 +84,7 @@
     </div>
   </section>  <section id="videos">
     <h2>UPCOMING EVENTS</h2>
-  <P>17 17 to 23 AUGUST 2025  </P>
+  <P> 17 to 23 AUGUST 2025  </P>
     <p>Musangano vaAbhib</p>
     <p>Location : Mapembe,Bocha Marange District, Manicaland,Zimbabwe </p>
     <P>For more info contact :Church Organiser : 0772651138</P>
