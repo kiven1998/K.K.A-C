@@ -83,11 +83,10 @@
         <img src="./images/youth.jpg" alt="Youth Group">
     </div>
   </section>  <section id="videos">
-    <h2>Videos</h2>
-    <div class="video-container">
-       video width="320" height="240" controls><source src="path/to/your/video.mp4" type="video/mp4">Your browser does not support the video tag.</video>
-    video width="320" height="240" controls><source src="path/to/your/video.mp4" type="video/mp4">Your browser does not support the video tag.</video>
-    </div>
+    <h2>UPCOMING EVENTS</h2>
+  <P>17 17 to 23 AUGUST 2025  </P>
+    <p>Musangano vaAbhib</p>
+    <p>Location :Mapembe,Bocha<Marange District<Manicaland zimbabwe</p>
   </section>  <section id="contact">
     <h2>Contact Us</h2>
      <p>Email: <a href="mailto:info@kutendakwevatendiapostolicchurch@gmail.com">kutendakwevatendiapostolicchurch@gmail.com</a></p>
