@@ -85,8 +85,8 @@
   </section>  <section id="videos">
     <h2>Videos</h2>
     <div class="video-container">
-      <iframe width="560" height="315" src="https://www.youtube.com/watch?v=118iON-cx-U" frameborder="0" allowfullscreen></iframe>
-      <iframe width="560" height="315" src="https://www.youtube.com/watch?v=VoHyh7YPz3Y&t=9s" frameborder="0" allowfullscreen></iframe>
+       video width="320" height="240" controls><source src="path/to/your/video.mp4" type="video/mp4">Your browser does not support the video tag.</video>
+    video width="320" height="240" controls><source src="path/to/your/video.mp4" type="video/mp4">Your browser does not support the video tag.</video>
     </div>
   </section>  <section id="contact">
     <h2>Contact Us</h2>
