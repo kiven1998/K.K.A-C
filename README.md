@@ -82,14 +82,14 @@
         <img src="./images/nabil.jpg" alt="Youth Group">
         <img src="./images/youth.jpg" alt="Youth Group">
     </div>
-  </section>  <section id="videos">
+  </section>  <section id="UPCOMING EVENTS">
     <h2>UPCOMING EVENTS</h2>
   <P> 17 to 24 AUGUST 2025  </P>
     <p>Musangano veMavhiki</p>
     <p>Location : Mapembe,Bocha Marange District, Manicaland,Zimbabwe </p>
     <P>For more info contact :Church Organiser : +263772651138</P>
-
-    <h3>PAYMENT AND DONATIONS</h3>
+</section>  <section id="PAYMENTS AND DONATIONS">
+    <h2> PAYMENTS AND DONATIONS </h2>
    <p> CONTACT. Church Organiser @ +263778651138</p>
   </section>  <section id="contact">
     <h2>Contact Us</h2>
