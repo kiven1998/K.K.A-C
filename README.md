@@ -89,7 +89,7 @@
     <p>Location : Mapembe,Bocha Marange District, Manicaland,Zimbabwe </p>
     <P>For more info contact :Church Organiser : 0772651138</P>
 
-    <P>PAYMENT AND DONATIONS</P>
+    <hh2>PAYMENT AND DONATIONS</h2>
    <p> CONTACT. Church Organiser @ 0778651138</p>
   </section>  <section id="contact">
     <h2>Contact Us</h2>
