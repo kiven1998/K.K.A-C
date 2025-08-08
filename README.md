@@ -90,7 +90,7 @@
     <P>For more info contact :Church Organiser : +263772651138</P>
 </section>  <section id="PAYMENTS AND DONATIONS">
     <h2> PAYMENTS AND DONATIONS </h2>
-   <p> CONTACT. Church Organiser @ +263778651138</p>
+   <p> CONTACT. Church Organiser @ +263772651138</p>
   </section>  <section id="contact">
     <h2>Contact Us</h2>
      <p>Email: <a href="mailto:info@kutendakwevatendiapostolicchurch@gmail.com">kutendakwevatendiapostolic@gmail.com</a></p>
