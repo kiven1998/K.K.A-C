@@ -87,10 +87,10 @@
   <P> 17 to 24 AUGUST 2025  </P>
     <p>Musangano veMavhiki</p>
     <p>Location : Mapembe,Bocha Marange District, Manicaland,Zimbabwe </p>
-    <P>For more info contact :Church Organiser : 0772651138</P>
+    <P>For more info contact :Church Organiser : +263772651138</P>
 
-    <hh2>PAYMENT AND DONATIONS</h2>
-   <p> CONTACT. Church Organiser @ 0778651138</p>
+    <h3>PAYMENT AND DONATIONS</h3>
+   <p> CONTACT. Church Organiser @ +263778651138</p>
   </section>  <section id="contact">
     <h2>Contact Us</h2>
      <p>Email: <a href="mailto:info@kutendakwevatendiapostolicchurch@gmail.com">kutendakwevatendiapostolicchurch@gmail.com</a></p>
